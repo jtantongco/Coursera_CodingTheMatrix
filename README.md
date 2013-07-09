@@ -7,5 +7,9 @@ The code contained here will be all from the 2013 course offering of Coding the 
 
 The code will be primarily Python but could include other class room artifacts.
 
+Matrix is the folder of things I am currently working on.
+All depdency files will be left in there.
+
 Class link:
 https://class.coursera.org/matrix-001/class/index
+

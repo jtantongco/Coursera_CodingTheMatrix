@@ -9,7 +9,6 @@ print("The real part:")
 print(variable.real)
 print("The imaginary part:")
 print(variable.imag)
-print(type(variable))
 # imaginary numbers dont seem to work when executed in script
 
 def solve(a,b,c): return (c-b)/a
