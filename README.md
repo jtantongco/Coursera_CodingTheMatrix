@@ -13,3 +13,5 @@ All depdency files will be left in there.
 Class link:
 https://class.coursera.org/matrix-001/class/index
 
+Course not initially completed concurrently with the running of the Coursera course.
+Course Resumed on January 9, 2014.
